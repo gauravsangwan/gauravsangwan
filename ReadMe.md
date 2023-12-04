@@ -1,7 +1,7 @@
 # Hi there, I'm Gaurav Sangwan! 👋
 
 ### About Me
-I am an AI&DS undergraduate student at [ABC University](https://www.abcuniversity.edu) with a passion for Artificial Intelligence, Data Science, and Deep Learning. I enjoy working on projects that involve implementation and learning through hands-on experience. I have been actively contributing to the GitHub community since April 2021 and have created 16 public repositories. My GitHub portfolio showcases my skills in various programming languages, including React, Node, Python, C++, MATLAB, and more.
+I am an AI&DS undergraduate student at [IIT Jodhpur](https://www.iitj.ac.in) with a passion for Artificial Intelligence, Data Science, and Deep Learning. I enjoy working on projects that involve implementation and learning through hands-on experience. I have been actively contributing to the GitHub community since April 2021 and have created 16 public repositories. My GitHub portfolio showcases my skills in various programming languages, including React, Node, Python, C++, MATLAB, and more.
 
 ### Skills
 Here's an overview of my skill set:
@@ -28,9 +28,9 @@ I have a moderate presence on GitHub with 6 followers and following 3 GitHub use
 
 ### Get in touch
 If you have any questions, collaboration opportunities, or simply want to reach out, feel free to connect with me:
-- 📧 Email: [gauravsangwan@example.com](mailto:gauravsangwan@example.com)
+- 📧 Email: [sangwan.2@iitj.ac.in](sangwan.2@iitj.ac.in)
 - 💼 LinkedIn: [Gaurav Sangwan](https://www.linkedin.com/in/gauravsangwan)
-- 🌐 Personal website: [www.gauravsangwan.com](https://www.gauravsangwan.com)
+- 🌐 Personal website: [gauravsangwan.github.io](gauravsangwan.github.io)
 
 Thank you for taking the time to visit my GitHub profile and read this README! I am excited to continue learning, exploring, and contributing to the world of AI, Data Science, and Deep Learning. Let's connect and collaborate!
 
