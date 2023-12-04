@@ -33,13 +33,13 @@ If you have any questions, collaboration opportunities, or simply want to reach 
 - 🌐 Personal website: [gauravsangwan.github.io](gauravsangwan.github.io)
 
 Thank you for taking the time to visit my GitHub profile and read this README! I am excited to continue learning, exploring, and contributing to the world of AI, Data Science, and Deep Learning. Let's connect and collaborate!
-
+<!---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=gauravsangwan)](https://github.com/gauravsangwan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsangwan&layout=compact)](https://github.com/gauravsangwan)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gauravsangwan)](https://github.com/gauravsangwan)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gauravsangwan)](https://git.io/streak-stats)
-
+-->
 [![AI](https://img.shields.io/badge/AI-Expert-blue)](https://www.gauravsangwan.com)
 [![Data Science](https://img.shields.io/badge/Data-Science-orange)](https://www.gauravsangwan.com)
 [![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange)](https://www.gauravsangwan.com)
