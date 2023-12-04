@@ -41,6 +41,8 @@ Thank you for taking the time to visit my GitHub profile and reading this README
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gauravsangwan)](https://git.io/streak-stats)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsangwan&layout=compact)](https://github.com/gauravsangwan)
+
+
 [![AI](https://img.shields.io/badge/AI-Expert-blue)](https://www.gauravsangwan.com)
 [![Data Science](https://img.shields.io/badge/Data-Science-orange)](https://www.gauravsangwan.com)
 [![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange)](https://www.gauravsangwan.com)
