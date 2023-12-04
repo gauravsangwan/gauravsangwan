@@ -32,7 +32,7 @@ If you have any questions, collaboration opportunities, or simply want to reach 
 - 💼 LinkedIn: [Gaurav Sangwan](https://www.linkedin.com/in/gauravsangwan)
 - 🌐 Personal website: [gauravsangwan.github.io](gauravsangwan.github.io)
 
-Thank you for taking the time to visit my GitHub profile and read this README! I am excited to continue learning, exploring, and contributing to the world of AI, Data Science, and Deep Learning. Let's connect and collaborate!
+Thank you for taking the time to visit my GitHub profile and reading this README! I am excited to continue learning, exploring, and contributing to the world of AI, Data Science, and Deep Learning. Let's connect and collaborate!
 <!---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=gauravsangwan)](https://github.com/gauravsangwan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsangwan&layout=compact)](https://github.com/gauravsangwan)
